@@ -1,5 +1,5 @@
 # Series Queues with infinite capacity - Open Jackson Network
-### DEVELOPED BY : SURESSH S
+### DEVELOPED BY : SURESH S
 ### REGISTER NUMBER : 212223040215
 
 ## Aim :
